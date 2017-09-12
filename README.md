@@ -1,2 +1,2 @@
-# bang_for_your_buck
+# dupify
 A website to compare an expensive product with a more affordable product.
